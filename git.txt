@@ -1,2 +1,1 @@
-hello.txt
-new repositary
+hello 3rd semester 
